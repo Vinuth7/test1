@@ -83,10 +83,7 @@ class Cal implements ActionListener{
         
         tf = new TextField(20);
         tf.setFont(f3);
-        tf.setEditable(true);
-        tf.setBackground(Color.white);
-        tf.setForeground(Color.black);
-        tf.setText("0");
+      
         //tf.setSize(450,100);
         
         p1.add(tf);
